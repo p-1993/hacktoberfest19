@@ -129,6 +129,7 @@ cout<<"Hello food"
 system.out.println(" hello world");   
 
 printf("Hello World\n")    
+console.printline("hello world");
 
 system.out.println(" hello world");      
 
